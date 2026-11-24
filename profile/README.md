@@ -5,8 +5,8 @@
 <h3 align="center">A small studio for design and development.</h3>
 
 <p align="center">
-  <a href="https://mavpy.com">Website</a> ·
-  <a href="mailto:mavpy.studio@gmail.com">hello@mavpy.com</a>
+  <a href="https://mavpy-site.vercel.app/">Website</a> ·
+  <a href="mailto:mavpy.studio@gmail.com">mavpy.studio@gmail.com</a>
 </p>
 
 ---
