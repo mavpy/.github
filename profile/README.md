@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://mavpy.com">Website</a> ·
-  <a href="mailto:hello@mavpy.com">hello@mavpy.com</a>
+  <a href="mailto:mavpy.studio@gmail.com">hello@mavpy.com</a>
 </p>
 
 ---
@@ -23,4 +23,4 @@ Astro · Next.js · TypeScript · Vercel
 
 ### Work with us
 
-Have a project in mind? Write to [hello@mavpy.com](mailto:hello@mavpy.com) and tell us about it.
+Have a project in mind? Write to [mavpy.studio@gmail.com](mailto:mavpy.studio@gmail.com) and tell us about it.
